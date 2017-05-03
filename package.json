@@ -1,0 +1,7 @@
+{
+  "name": "aws-ruby-hello",
+  "version": "1.0.0",
+  "description": "This example demonstrates how to run a Ruby script in AWS Lambda.",
+  "author": "Stewart Lord",
+  "license": "MIT"
+}
