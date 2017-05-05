@@ -2,7 +2,7 @@
 
 A Serverless Framework example using an AWS lambda which runs a Ruby function. Inspired by [serverless-php](https://github.com/ZeroSharp/serverless-php). 
 
-This project demonstrates a few cool technlogies. Foremost is the amazing AWS Lambda. It's pretty exciting to serverless architectures gaining adoption! Adding to the fun we have [serverless](https://serverless.com/), a framework for packaging and deploying across different providers including AWS, Google and IBM. Also worth mentioning is the inclusion of Ruby. AWS Lambda supports a number of different languages natively, but Ruby is not one of them. Therefore we specially bundle the Ruby interpreter (courtesy of [Traveling Ruby](http://phusion.github.io/traveling-ruby/)) and wrap it in a Node.js script which executes it as a binary.
+This project demonstrates a few cool technlogies. Foremost is the amazing AWS Lambda. It's pretty exciting to see serverless architectures gaining adoption! Adding to the fun we have [serverless](https://serverless.com/), a framework for packaging and deploying across different providers including AWS, Google, and IBM. Also worth mentioning is the inclusion of Ruby. AWS Lambda supports a number of different languages natively, but Ruby is not one of them. Therefore we specially bundle the Ruby interpreter (courtesy of [Traveling Ruby](http://phusion.github.io/traveling-ruby/)) and wrap it in a Node.js script which executes it as a binary.
 
 ## Prerequsites
 
