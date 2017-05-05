@@ -13,7 +13,7 @@ This project demonstrates a few cool technlogies. Foremost is the amazing AWS La
 
 ```
 serverless install --url https://github.com/stewartlord/serverless-ruby
-./build-ruby.sh
+./fetch-ruby.sh
 ```
 
 ## Deploy Function

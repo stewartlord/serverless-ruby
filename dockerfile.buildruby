@@ -1,6 +1,0 @@
-# Grab Traveling Ruby for amazonlinux
-
-FROM amazonlinux
-RUN curl -sL http://d6r77u77i8pq3.cloudfront.net/releases/traveling-ruby-20150715-2.2.2-linux-x86_64.tar.gz -o traveling-ruby-20150715-2.2.2-linux-x86_64.tar.gz
-RUN mkdir ruby
-RUN tar -xvf traveling-ruby-20150715-2.2.2-linux-x86_64.tar.gz -C ruby
