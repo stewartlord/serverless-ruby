@@ -1,3 +1,8 @@
 #!./ruby/bin/ruby
 
-puts '"hello"'
+require 'json'
+
+puts JSON.generate({
+  :status => 200, 
+  :body   => "Hello from Ruby"
+})
