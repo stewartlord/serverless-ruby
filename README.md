@@ -7,7 +7,7 @@ This project demonstrates a few cool technlogies. Foremost is the amazing AWS La
 ## Prerequsites
 
 1. `npm install -g serverless`
-2. Create a new user `serverless` in AWS Console, download the `credentials.csv` file and setup provider: [https://www.youtube.com/watch?v=HSd9uYj2LJA]()
+2. Create a new user `serverless` in AWS Console, download the `credentials.csv` file and setup provider: [https://www.youtube.com/watch?v=HSd9uYj2LJA](https://www.youtube.com/watch?v=HSd9uYj2LJA)
 
 ## Install
 
