@@ -2,7 +2,7 @@
 
 require 'json'
 
-puts JSON.generate({
-  :status => 200, 
-  :body   => "Hello from Ruby"
-})
+puts JSON.generate(
+  statusCode: 200,
+  body: 'Hello from Ruby'
+)
